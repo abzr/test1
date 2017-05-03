@@ -4,5 +4,11 @@ addfasdf
 wefwe
 new modify
 new fix
+<<<<<<< HEAD
 add hotfix3
 
+=======
+
+add iss58
+aaaa
+>>>>>>> iss58
